@@ -1,3 +1,2 @@
-﻿
-using var game = new Fractal.GameRoot();
+﻿using var game = new Fractal.GameRoot();
 game.Run();
